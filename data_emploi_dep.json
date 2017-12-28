@@ -1,0 +1,702 @@
+[
+ {
+   "num_dep": "01",
+   "label_dep": "Ain",
+   "2e_trim_2017": "6,8",
+   "1e_trim_2017": "6,8",
+   "2e_trim_2016": "7,3"
+ },
+ {
+   "num_dep": "02",
+   "label_dep": "Aisne",
+   "2e_trim_2017": "13,1",
+   "1e_trim_2017": "13,2",
+   "2e_trim_2016": "13,6"
+ },
+ {
+   "num_dep": "03",
+   "label_dep": "Allier",
+   "2e_trim_2017": "9,9",
+   "1e_trim_2017": "10,0",
+   "2e_trim_2016": "10,4"
+ },
+ {
+   "num_dep": "04",
+   "label_dep": "Alpes-de-Haute-Provence",
+   "2e_trim_2017": "11,1",
+   "1e_trim_2017": "11,3",
+   "2e_trim_2016": "11,3"
+ },
+ {
+   "num_dep": "05",
+   "label_dep": "Hautes-Alpes",
+   "2e_trim_2017": "8,6",
+   "1e_trim_2017": "8,9",
+   "2e_trim_2016": "9,0"
+ },
+ {
+   "num_dep": "06",
+   "label_dep": "Alpes-Maritimes",
+   "2e_trim_2017": "10,0",
+   "1e_trim_2017": "10,3",
+   "2e_trim_2016": "10,4"
+ },
+ {
+   "num_dep": "07",
+   "label_dep": "Ard�che",
+   "2e_trim_2017": "10,2",
+   "1e_trim_2017": "10,4",
+   "2e_trim_2016": "10,7"
+ },
+ {
+   "num_dep": "08",
+   "label_dep": "Ardennes",
+   "2e_trim_2017": "11,3",
+   "1e_trim_2017": "11,4",
+   "2e_trim_2016": "11,9"
+ },
+ {
+   "num_dep": "09",
+   "label_dep": "Ari�ge",
+   "2e_trim_2017": "11,6",
+   "1e_trim_2017": "11,7",
+   "2e_trim_2016": "12,0"
+ },
+ {
+   "num_dep": "10",
+   "label_dep": "Aube",
+   "2e_trim_2017": "12,0",
+   "1e_trim_2017": "12,3",
+   "2e_trim_2016": "12,6"
+ },
+ {
+   "num_dep": "11",
+   "label_dep": "Aude",
+   "2e_trim_2017": "12,6",
+   "1e_trim_2017": "12,7",
+   "2e_trim_2016": "13,4"
+ },
+ {
+   "num_dep": "12",
+   "label_dep": "Aveyron",
+   "2e_trim_2017": "7,1",
+   "1e_trim_2017": "7,1",
+   "2e_trim_2016": "7,3"
+ },
+ {
+   "num_dep": "13",
+   "label_dep": "Bouches-du-Rh�ne",
+   "2e_trim_2017": "11,2",
+   "1e_trim_2017": "11,3",
+   "2e_trim_2016": "11,5"
+ },
+ {
+   "num_dep": "14",
+   "label_dep": "Calvados",
+   "2e_trim_2017": "8,8",
+   "1e_trim_2017": "8,9",
+   "2e_trim_2016": "9,3"
+ },
+ {
+   "num_dep": "15",
+   "label_dep": "Cantal",
+   "2e_trim_2017": "5,7",
+   "1e_trim_2017": "5,9",
+   "2e_trim_2016": "6,2"
+ },
+ {
+   "num_dep": "16",
+   "label_dep": "Charente",
+   "2e_trim_2017": "9,0",
+   "1e_trim_2017": "9,1",
+   "2e_trim_2016": "9,7"
+ },
+ {
+   "num_dep": "17",
+   "label_dep": "Charente-Maritime",
+   "2e_trim_2017": "9,6",
+   "1e_trim_2017": "9,9",
+   "2e_trim_2016": "10,4"
+ },
+ {
+   "num_dep": "18",
+   "label_dep": "Cher",
+   "2e_trim_2017": "9,8",
+   "1e_trim_2017": "9,9",
+   "2e_trim_2016": "10,4"
+ },
+ {
+   "num_dep": "19",
+   "label_dep": "Corr�ze",
+   "2e_trim_2017": "7,6",
+   "1e_trim_2017": "7,7",
+   "2e_trim_2016": "8,2"
+ },
+ {
+   "num_dep": "2A",
+   "label_dep": "Corse-du-Sud",
+   "2e_trim_2017": "9,5",
+   "1e_trim_2017": "9,8",
+   "2e_trim_2016": "9,9"
+ },
+ {
+   "num_dep": "2B",
+   "label_dep": "Haute-Corse",
+   "2e_trim_2017": "10,5",
+   "1e_trim_2017": "10,7",
+   "2e_trim_2016": "11,3"
+ },
+ {
+   "num_dep": "21",
+   "label_dep": "C�te-d'Or",
+   "2e_trim_2017": "7,7",
+   "1e_trim_2017": "7,8",
+   "2e_trim_2016": "8,4"
+ },
+ {
+   "num_dep": "22",
+   "label_dep": "C�tes-d'Armor",
+   "2e_trim_2017": "8,5",
+   "1e_trim_2017": "8,6",
+   "2e_trim_2016": "9,0"
+ },
+ {
+   "num_dep": "23",
+   "label_dep": "Creuse",
+   "2e_trim_2017": "8,7",
+   "1e_trim_2017": "8,7",
+   "2e_trim_2016": "9,4"
+ },
+ {
+   "num_dep": "24",
+   "label_dep": "Dordogne",
+   "2e_trim_2017": "9,9",
+   "1e_trim_2017": "10,1",
+   "2e_trim_2016": "10,4"
+ },
+ {
+   "num_dep": "25",
+   "label_dep": "Doubs",
+   "2e_trim_2017": "8,4",
+   "1e_trim_2017": "8,6",
+   "2e_trim_2016": "9,1"
+ },
+ {
+   "num_dep": "26",
+   "label_dep": "Dr�me",
+   "2e_trim_2017": "10,3",
+   "1e_trim_2017": "10,5",
+   "2e_trim_2016": "11,0"
+ },
+ {
+   "num_dep": "27",
+   "label_dep": "Eure",
+   "2e_trim_2017": "9,7",
+   "1e_trim_2017": "9,8",
+   "2e_trim_2016": "10,3"
+ },
+ {
+   "num_dep": "28",
+   "label_dep": "Eure-et-Loir",
+   "2e_trim_2017": "9,0",
+   "1e_trim_2017": "9,0",
+   "2e_trim_2016": "9,5"
+ },
+ {
+   "num_dep": "29",
+   "label_dep": "Finist�re",
+   "2e_trim_2017": "8,2",
+   "1e_trim_2017": "8,4",
+   "2e_trim_2016": "9,0"
+ },
+ {
+   "num_dep": "30",
+   "label_dep": "Gard",
+   "2e_trim_2017": "12,6",
+   "1e_trim_2017": "12,9",
+   "2e_trim_2016": "13,5"
+ },
+ {
+   "num_dep": "31",
+   "label_dep": "Haute-Garonne",
+   "2e_trim_2017": "9,2",
+   "1e_trim_2017": "9,3",
+   "2e_trim_2016": "10,0"
+ },
+ {
+   "num_dep": "32",
+   "label_dep": "Gers",
+   "2e_trim_2017": "7,2",
+   "1e_trim_2017": "7,4",
+   "2e_trim_2016": "8,1"
+ },
+ {
+   "num_dep": "33",
+   "label_dep": "Gironde",
+   "2e_trim_2017": "9,4",
+   "1e_trim_2017": "9,5",
+   "2e_trim_2016": "9,9"
+ },
+ {
+   "num_dep": "34",
+   "label_dep": "H�rault",
+   "2e_trim_2017": "13,2",
+   "1e_trim_2017": "13,4",
+   "2e_trim_2016": "13,8"
+ },
+ {
+   "num_dep": "35",
+   "label_dep": "Ille-et-Vilaine",
+   "2e_trim_2017": "7,2",
+   "1e_trim_2017": "7,4",
+   "2e_trim_2016": "7,8"
+ },
+ {
+   "num_dep": "36",
+   "label_dep": "Indre",
+   "2e_trim_2017": "9,3",
+   "1e_trim_2017": "9,4",
+   "2e_trim_2016": "9,7"
+ },
+ {
+   "num_dep": "37",
+   "label_dep": "Indre-et-Loire",
+   "2e_trim_2017": "8,6",
+   "1e_trim_2017": "8,7",
+   "2e_trim_2016": "9,0"
+ },
+ {
+   "num_dep": "38",
+   "label_dep": "Is�re",
+   "2e_trim_2017": "7,9",
+   "1e_trim_2017": "8,0",
+   "2e_trim_2016": "8,3"
+ },
+ {
+   "num_dep": "39",
+   "label_dep": "Jura",
+   "2e_trim_2017": "6,9",
+   "1e_trim_2017": "7,1",
+   "2e_trim_2016": "7,5"
+ },
+ {
+   "num_dep": "40",
+   "label_dep": "Landes",
+   "2e_trim_2017": "9,2",
+   "1e_trim_2017": "9,3",
+   "2e_trim_2016": "9,7"
+ },
+ {
+   "num_dep": "41",
+   "label_dep": "Loir-et-Cher",
+   "2e_trim_2017": "8,0",
+   "1e_trim_2017": "8,1",
+   "2e_trim_2016": "8,6"
+ },
+ {
+   "num_dep": "42",
+   "label_dep": "Loire",
+   "2e_trim_2017": "9,3",
+   "1e_trim_2017": "9,4",
+   "2e_trim_2016": "9,9"
+ },
+ {
+   "num_dep": "43",
+   "label_dep": "Haute-Loire",
+   "2e_trim_2017": "7,5",
+   "1e_trim_2017": "7,6",
+   "2e_trim_2016": "8,1"
+ },
+ {
+   "num_dep": "44",
+   "label_dep": "Loire-Atlantique",
+   "2e_trim_2017": "7,6",
+   "1e_trim_2017": "7,8",
+   "2e_trim_2016": "8,3"
+ },
+ {
+   "num_dep": "45",
+   "label_dep": "Loiret",
+   "2e_trim_2017": "9,1",
+   "1e_trim_2017": "9,1",
+   "2e_trim_2016": "9,8"
+ },
+ {
+   "num_dep": "46",
+   "label_dep": "Lot",
+   "2e_trim_2017": "9,0",
+   "1e_trim_2017": "8,9",
+   "2e_trim_2016": "9,1"
+ },
+ {
+   "num_dep": "47",
+   "label_dep": "Lot-et-Garonne",
+   "2e_trim_2017": "9,3",
+   "1e_trim_2017": "9,5",
+   "2e_trim_2016": "10,2"
+ },
+ {
+   "num_dep": "48",
+   "label_dep": "Loz�re",
+   "2e_trim_2017": "5,9",
+   "1e_trim_2017": "6,0",
+   "2e_trim_2016": "6,3"
+ },
+ {
+   "num_dep": "49",
+   "label_dep": "Maine-et-Loire",
+   "2e_trim_2017": "8,6",
+   "1e_trim_2017": "8,7",
+   "2e_trim_2016": "9,2"
+ },
+ {
+   "num_dep": "50",
+   "label_dep": "Manche",
+   "2e_trim_2017": "7,5",
+   "1e_trim_2017": "7,7",
+   "2e_trim_2016": "8,1"
+ },
+ {
+   "num_dep": "51",
+   "label_dep": "Marne",
+   "2e_trim_2017": "9,0",
+   "1e_trim_2017": "9,0",
+   "2e_trim_2016": "9,5"
+ },
+ {
+   "num_dep": "52",
+   "label_dep": "Haute-Marne",
+   "2e_trim_2017": "8,5",
+   "1e_trim_2017": "8,6",
+   "2e_trim_2016": "9,2"
+ },
+ {
+   "num_dep": "53",
+   "label_dep": "Mayenne",
+   "2e_trim_2017": "6,3",
+   "1e_trim_2017": "6,3",
+   "2e_trim_2016": "6,6"
+ },
+ {
+   "num_dep": "54",
+   "label_dep": "Meurthe-et-Moselle",
+   "2e_trim_2017": "9,4",
+   "1e_trim_2017": "9,4",
+   "2e_trim_2016": "9,8"
+ },
+ {
+   "num_dep": "55",
+   "label_dep": "Meuse",
+   "2e_trim_2017": "9,0",
+   "1e_trim_2017": "9,3",
+   "2e_trim_2016": "9,7"
+ },
+ {
+   "num_dep": "56",
+   "label_dep": "Morbihan",
+   "2e_trim_2017": "8,5",
+   "1e_trim_2017": "8,6",
+   "2e_trim_2016": "9,2"
+ },
+ {
+   "num_dep": "57",
+   "label_dep": "Moselle",
+   "2e_trim_2017": "9,7",
+   "1e_trim_2017": "9,8",
+   "2e_trim_2016": "10,0"
+ },
+ {
+   "num_dep": "58",
+   "label_dep": "Ni�vre",
+   "2e_trim_2017": "8,4",
+   "1e_trim_2017": "8,5",
+   "2e_trim_2016": "9,3"
+ },
+ {
+   "num_dep": "59",
+   "label_dep": "Nord",
+   "2e_trim_2017": "12,3",
+   "1e_trim_2017": "12,3",
+   "2e_trim_2016": "12,5"
+ },
+ {
+   "num_dep": "60",
+   "label_dep": "Oise",
+   "2e_trim_2017": "9,4",
+   "1e_trim_2017": "9,5",
+   "2e_trim_2016": "9,9"
+ },
+ {
+   "num_dep": "61",
+   "label_dep": "Orne",
+   "2e_trim_2017": "8,7",
+   "1e_trim_2017": "8,7",
+   "2e_trim_2016": "9,3"
+ },
+ {
+   "num_dep": "62",
+   "label_dep": "Pas-de-Calais",
+   "2e_trim_2017": "11,6",
+   "1e_trim_2017": "11,7",
+   "2e_trim_2016": "12,4"
+ },
+ {
+   "num_dep": "63",
+   "label_dep": "Puy-de-D�me",
+   "2e_trim_2017": "8,1",
+   "1e_trim_2017": "8,3",
+   "2e_trim_2016": "8,6"
+ },
+ {
+   "num_dep": "64",
+   "label_dep": "Pyr�n�es-Atlantiques",
+   "2e_trim_2017": "7,9",
+   "1e_trim_2017": "8,0",
+   "2e_trim_2016": "8,3"
+ },
+ {
+   "num_dep": "65",
+   "label_dep": "Hautes-Pyr�n�es",
+   "2e_trim_2017": "10,5",
+   "1e_trim_2017": "10,8",
+   "2e_trim_2016": "11,2"
+ },
+ {
+   "num_dep": "66",
+   "label_dep": "Pyr�n�es-Orientales",
+   "2e_trim_2017": "14,3",
+   "1e_trim_2017": "14,8",
+   "2e_trim_2016": "15,3"
+ },
+ {
+   "num_dep": "67",
+   "label_dep": "Bas-Rhin",
+   "2e_trim_2017": "8,2",
+   "1e_trim_2017": "8,3",
+   "2e_trim_2016": "8,7"
+ },
+ {
+   "num_dep": "68",
+   "label_dep": "Haut-Rhin",
+   "2e_trim_2017": "9,0",
+   "1e_trim_2017": "9,2",
+   "2e_trim_2016": "9,6"
+ },
+ {
+   "num_dep": "69",
+   "label_dep": "Rh�ne",
+   "2e_trim_2017": "8,4",
+   "1e_trim_2017": "8,4",
+   "2e_trim_2016": "8,8"
+ },
+ {
+   "num_dep": "70",
+   "label_dep": "Haute-Sa�ne",
+   "2e_trim_2017": "8,8",
+   "1e_trim_2017": "9,0",
+   "2e_trim_2016": "9,2"
+ },
+ {
+   "num_dep": "71",
+   "label_dep": "Sa�ne-et-Loire",
+   "2e_trim_2017": "8,4",
+   "1e_trim_2017": "8,5",
+   "2e_trim_2016": "9,1"
+ },
+ {
+   "num_dep": "72",
+   "label_dep": "Sarthe",
+   "2e_trim_2017": "9,1",
+   "1e_trim_2017": "9,2",
+   "2e_trim_2016": "9,7"
+ },
+ {
+   "num_dep": "73",
+   "label_dep": "Savoie",
+   "2e_trim_2017": "7,2",
+   "1e_trim_2017": "7,4",
+   "2e_trim_2016": "7,6"
+ },
+ {
+   "num_dep": "74",
+   "label_dep": "Haute-Savoie",
+   "2e_trim_2017": "6,7",
+   "1e_trim_2017": "6,9",
+   "2e_trim_2016": "7,2"
+ },
+ {
+   "num_dep": "75",
+   "label_dep": "Paris",
+   "2e_trim_2017": "7,2",
+   "1e_trim_2017": "7,4",
+   "2e_trim_2016": "7,7"
+ },
+ {
+   "num_dep": "76",
+   "label_dep": "Seine-Maritime",
+   "2e_trim_2017": "10,6",
+   "1e_trim_2017": "10,7",
+   "2e_trim_2016": "11,2"
+ },
+ {
+   "num_dep": "77",
+   "label_dep": "Seine-et-Marne",
+   "2e_trim_2017": "7,5",
+   "1e_trim_2017": "7,6",
+   "2e_trim_2016": "7,9"
+ },
+ {
+   "num_dep": "78",
+   "label_dep": "Yvelines",
+   "2e_trim_2017": "6,9",
+   "1e_trim_2017": "7,0",
+   "2e_trim_2016": "7,3"
+ },
+ {
+   "num_dep": "79",
+   "label_dep": "Deux-S�vres",
+   "2e_trim_2017": "7,2",
+   "1e_trim_2017": "7,3",
+   "2e_trim_2016": "7,8"
+ },
+ {
+   "num_dep": "80",
+   "label_dep": "Somme",
+   "2e_trim_2017": "11,1",
+   "1e_trim_2017": "11,3",
+   "2e_trim_2016": "11,7"
+ },
+ {
+   "num_dep": "81",
+   "label_dep": "Tarn",
+   "2e_trim_2017": "10,0",
+   "1e_trim_2017": "10,2",
+   "2e_trim_2016": "10,5"
+ },
+ {
+   "num_dep": "82",
+   "label_dep": "Tarn-et-Garonne",
+   "2e_trim_2017": "10,8",
+   "1e_trim_2017": "11,1",
+   "2e_trim_2016": "11,4"
+ },
+ {
+   "num_dep": "83",
+   "label_dep": "Var",
+   "2e_trim_2017": "10,5",
+   "1e_trim_2017": "10,8",
+   "2e_trim_2016": "10,9"
+ },
+ {
+   "num_dep": "84",
+   "label_dep": "Vaucluse",
+   "2e_trim_2017": "11,9",
+   "1e_trim_2017": "12,2",
+   "2e_trim_2016": "12,8"
+ },
+ {
+   "num_dep": "85",
+   "label_dep": "Vend�e",
+   "2e_trim_2017": "7,2",
+   "1e_trim_2017": "7,4",
+   "2e_trim_2016": "7,9"
+ },
+ {
+   "num_dep": "86",
+   "label_dep": "Vienne",
+   "2e_trim_2017": "7,5",
+   "1e_trim_2017": "7,6",
+   "2e_trim_2016": "8,3"
+ },
+ {
+   "num_dep": "87",
+   "label_dep": "Haute-Vienne",
+   "2e_trim_2017": "8,9",
+   "1e_trim_2017": "8,9",
+   "2e_trim_2016": "9,6"
+ },
+ {
+   "num_dep": "88",
+   "label_dep": "Vosges",
+   "2e_trim_2017": "10,3",
+   "1e_trim_2017": "10,3",
+   "2e_trim_2016": "11,1"
+ },
+ {
+   "num_dep": "89",
+   "label_dep": "Yonne",
+   "2e_trim_2017": "8,8",
+   "1e_trim_2017": "8,9",
+   "2e_trim_2016": "9,6"
+ },
+ {
+   "num_dep": "90",
+   "label_dep": "Territoire de Belfort",
+   "2e_trim_2017": "9,9",
+   "1e_trim_2017": "10,2",
+   "2e_trim_2016": "10,8"
+ },
+ {
+   "num_dep": "91",
+   "label_dep": "Essonne",
+   "2e_trim_2017": "7,3",
+   "1e_trim_2017": "7,4",
+   "2e_trim_2016": "7,6"
+ },
+ {
+   "num_dep": "92",
+   "label_dep": "Hauts-de-Seine",
+   "2e_trim_2017": "7,1",
+   "1e_trim_2017": "7,2",
+   "2e_trim_2016": "7,5"
+ },
+ {
+   "num_dep": "93",
+   "label_dep": "Seine-Saint-Denis",
+   "2e_trim_2017": "11,9",
+   "1e_trim_2017": "12,1",
+   "2e_trim_2016": "12,6"
+ },
+ {
+   "num_dep": "94",
+   "label_dep": "Val-de-Marne",
+   "2e_trim_2017": "8,3",
+   "1e_trim_2017": "8,5",
+   "2e_trim_2016": "8,7"
+ },
+ {
+   "num_dep": "95",
+   "label_dep": "Val-d'Oise",
+   "2e_trim_2017": "9,5",
+   "1e_trim_2017": "9,6",
+   "2e_trim_2016": "10,0"
+ },
+ {
+   "num_dep": "M",
+   "label_dep": "France m�tropolitaine",
+   "2e_trim_2017": "9,2",
+   "1e_trim_2017": "9,3",
+   "2e_trim_2016": "9,7"
+ },
+ {
+   "num_dep": "(p) Les donn�es du dernier trimestre sont provisoires.",
+   "label_dep": "",
+   "2e_trim_2017": "",
+   "1e_trim_2017": "",
+   "2e_trim_2016": ""
+ },
+ {
+   "num_dep": "Champ : France m�tropolitaine",
+   "label_dep": "",
+   "2e_trim_2017": "",
+   "1e_trim_2017": "",
+   "2e_trim_2016": ""
+ },
+ {
+   "num_dep": "Source : Insee, taux de ch�mage localis�s et taux de ch�mage au sens du BIT",
+   "label_dep": "",
+   "2e_trim_2017": "",
+   "1e_trim_2017": "",
+   "2e_trim_2016": ""
+ }
+]
